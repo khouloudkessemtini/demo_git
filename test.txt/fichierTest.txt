@@ -1,2 +1,3 @@
 Avec un logiciel de versioning comme Git, vous pouvez garder la trace de toutes les modifications faites sur votre code.
 "Salut!"
+Deuxiéme modification c'est par Github "Soyez le bien venu sur Github"
